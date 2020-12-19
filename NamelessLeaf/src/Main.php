@@ -1,6 +1,6 @@
 <?php
 
-namespace KB;
+namespace NamelessLeaf;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\event\Listener;
